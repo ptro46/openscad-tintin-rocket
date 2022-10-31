@@ -1,6 +1,7 @@
 # Description
 
 ![first-view](captures/first-view.png)
+![second-view](captures/second-view.png)
 
 # Build
 
