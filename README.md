@@ -1,5 +1,21 @@
 # Description
 
+## Reading
+
+### tintin-rocket.scad
+OpenSCAD source file
+
+### parameters.json
+Parameters file used by command line openscad to build each parts
+
+### Makefile
+Makefile used by make command to build all parts
+
+### STL
+STL generated files by make commande (for users that doesn't have make command line)
+
+## OpenSCAD captures
+
 ![first-view](captures/first-view.png)
 ![second-view](captures/second-view.png)
 
