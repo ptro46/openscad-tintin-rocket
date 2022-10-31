@@ -1,0 +1,1366 @@
+{
+    "parameterSets":
+    {
+        "rocket-part-lander": {
+            "do_rocket_part_lander": true ,
+            "do_rocket_part_body": false ,
+            
+            "do_rocket_level_1_part_1": false ,
+            "do_rocket_level_1_part_2": false ,
+            "do_rocket_level_1_part_3": false ,
+            "do_rocket_level_1_part_4": false ,
+            "do_rocket_level_1_part_5": false ,
+            "do_rocket_level_1_part_6": false ,
+            
+            "do_rocket_level_2_part_1": false ,
+            "do_rocket_level_2_part_2": false ,
+            "do_rocket_level_2_part_3": false ,
+            "do_rocket_level_2_part_4": false ,
+            "do_rocket_level_2_part_5": false ,
+            "do_rocket_level_2_part_6": false ,
+
+            "do_rocket_level_3_part_1": false ,
+            "do_rocket_level_3_part_2": false ,
+            "do_rocket_level_3_part_3": false ,
+            "do_rocket_level_3_part_4": false ,
+            "do_rocket_level_3_part_5": false ,
+            "do_rocket_level_3_part_6": false ,
+
+            "do_rocket_level_4_part_1": false ,
+            "do_rocket_level_4_part_2": false ,
+            "do_rocket_level_4_part_3": false ,
+            "do_rocket_level_4_part_4": false ,
+            "do_rocket_level_4_part_5": false ,
+            "do_rocket_level_4_part_6": false ,
+            
+            "do_rocket_level_5_part_1": false ,
+            "do_rocket_level_5_part_2": false ,
+            "do_rocket_level_5_part_3": false ,
+            "do_rocket_level_5_part_4": false ,
+            "do_rocket_level_5_part_5": false ,
+            "do_rocket_level_5_part_6": false ,
+
+            "do_rocket_part_capsule": false 
+        } ,
+        "rocket-part-body": {
+            "do_rocket_part_lander": false ,
+            "do_rocket_part_body": true ,
+
+            "do_rocket_level_1_part_1": false ,
+            "do_rocket_level_1_part_2": false ,
+            "do_rocket_level_1_part_3": false ,
+            "do_rocket_level_1_part_4": false ,
+            "do_rocket_level_1_part_5": false ,
+            "do_rocket_level_1_part_6": false ,
+            
+            "do_rocket_level_2_part_1": false ,
+            "do_rocket_level_2_part_2": false ,
+            "do_rocket_level_2_part_3": false ,
+            "do_rocket_level_2_part_4": false ,
+            "do_rocket_level_2_part_5": false ,
+            "do_rocket_level_2_part_6": false ,
+
+            "do_rocket_level_3_part_1": false ,
+            "do_rocket_level_3_part_2": false ,
+            "do_rocket_level_3_part_3": false ,
+            "do_rocket_level_3_part_4": false ,
+            "do_rocket_level_3_part_5": false ,
+            "do_rocket_level_3_part_6": false ,
+
+            "do_rocket_level_4_part_1": false ,
+            "do_rocket_level_4_part_2": false ,
+            "do_rocket_level_4_part_3": false ,
+            "do_rocket_level_4_part_4": false ,
+            "do_rocket_level_4_part_5": false ,
+            "do_rocket_level_4_part_6": false ,
+            
+            "do_rocket_level_5_part_1": false ,
+            "do_rocket_level_5_part_2": false ,
+            "do_rocket_level_5_part_3": false ,
+            "do_rocket_level_5_part_4": false ,
+            "do_rocket_level_5_part_5": false ,
+            "do_rocket_level_5_part_6": false ,
+
+            "do_rocket_part_capsule": false 
+        } ,
+
+        "rocket-level-1-part-1": {
+            "do_rocket_part_lander": false ,
+            "do_rocket_part_body": false ,
+
+            "do_rocket_level_1_part_1": true ,
+            "do_rocket_level_1_part_2": false ,
+            "do_rocket_level_1_part_3": false ,
+            "do_rocket_level_1_part_4": false ,
+            "do_rocket_level_1_part_5": false ,
+            "do_rocket_level_1_part_6": false ,
+            
+            "do_rocket_level_2_part_1": false ,
+            "do_rocket_level_2_part_2": false ,
+            "do_rocket_level_2_part_3": false ,
+            "do_rocket_level_2_part_4": false ,
+            "do_rocket_level_2_part_5": false ,
+            "do_rocket_level_2_part_6": false ,
+
+            "do_rocket_level_3_part_1": false ,
+            "do_rocket_level_3_part_2": false ,
+            "do_rocket_level_3_part_3": false ,
+            "do_rocket_level_3_part_4": false ,
+            "do_rocket_level_3_part_5": false ,
+            "do_rocket_level_3_part_6": false ,
+
+            "do_rocket_level_4_part_1": false ,
+            "do_rocket_level_4_part_2": false ,
+            "do_rocket_level_4_part_3": false ,
+            "do_rocket_level_4_part_4": false ,
+            "do_rocket_level_4_part_5": false ,
+            "do_rocket_level_4_part_6": false ,
+            
+            "do_rocket_level_5_part_1": false ,
+            "do_rocket_level_5_part_2": false ,
+            "do_rocket_level_5_part_3": false ,
+            "do_rocket_level_5_part_4": false ,
+            "do_rocket_level_5_part_5": false ,
+            "do_rocket_level_5_part_6": false ,
+
+            "do_rocket_part_capsule": false 
+        } ,
+        "rocket-level-1-part-2": {
+            "do_rocket_part_lander": false ,
+            "do_rocket_part_body": false ,
+
+            "do_rocket_level_1_part_1": false ,
+            "do_rocket_level_1_part_2": true ,
+            "do_rocket_level_1_part_3": false ,
+            "do_rocket_level_1_part_4": false ,
+            "do_rocket_level_1_part_5": false ,
+            "do_rocket_level_1_part_6": false ,
+            
+            "do_rocket_level_2_part_1": false ,
+            "do_rocket_level_2_part_2": false ,
+            "do_rocket_level_2_part_3": false ,
+            "do_rocket_level_2_part_4": false ,
+            "do_rocket_level_2_part_5": false ,
+            "do_rocket_level_2_part_6": false ,
+
+            "do_rocket_level_3_part_1": false ,
+            "do_rocket_level_3_part_2": false ,
+            "do_rocket_level_3_part_3": false ,
+            "do_rocket_level_3_part_4": false ,
+            "do_rocket_level_3_part_5": false ,
+            "do_rocket_level_3_part_6": false ,
+
+            "do_rocket_level_4_part_1": false ,
+            "do_rocket_level_4_part_2": false ,
+            "do_rocket_level_4_part_3": false ,
+            "do_rocket_level_4_part_4": false ,
+            "do_rocket_level_4_part_5": false ,
+            "do_rocket_level_4_part_6": false ,
+            
+            "do_rocket_level_5_part_1": false ,
+            "do_rocket_level_5_part_2": false ,
+            "do_rocket_level_5_part_3": false ,
+            "do_rocket_level_5_part_4": false ,
+            "do_rocket_level_5_part_5": false ,
+            "do_rocket_level_5_part_6": false ,
+            
+            "do_rocket_part_capsule": false 
+        } ,
+        "rocket-level-1-part-3": {
+            "do_rocket_part_lander": false ,
+            "do_rocket_part_body": false ,
+
+            "do_rocket_level_1_part_1": false ,
+            "do_rocket_level_1_part_2": false ,
+            "do_rocket_level_1_part_3": true ,
+            "do_rocket_level_1_part_4": false ,
+            "do_rocket_level_1_part_5": false ,
+            "do_rocket_level_1_part_6": false ,
+            
+            "do_rocket_level_2_part_1": false ,
+            "do_rocket_level_2_part_2": false ,
+            "do_rocket_level_2_part_3": false ,
+            "do_rocket_level_2_part_4": false ,
+            "do_rocket_level_2_part_5": false ,
+            "do_rocket_level_2_part_6": false ,
+
+            "do_rocket_level_3_part_1": false ,
+            "do_rocket_level_3_part_2": false ,
+            "do_rocket_level_3_part_3": false ,
+            "do_rocket_level_3_part_4": false ,
+            "do_rocket_level_3_part_5": false ,
+            "do_rocket_level_3_part_6": false ,
+
+            "do_rocket_level_4_part_1": false ,
+            "do_rocket_level_4_part_2": false ,
+            "do_rocket_level_4_part_3": false ,
+            "do_rocket_level_4_part_4": false ,
+            "do_rocket_level_4_part_5": false ,
+            "do_rocket_level_4_part_6": false ,
+            
+            "do_rocket_level_5_part_1": false ,
+            "do_rocket_level_5_part_2": false ,
+            "do_rocket_level_5_part_3": false ,
+            "do_rocket_level_5_part_4": false ,
+            "do_rocket_level_5_part_5": false ,
+            "do_rocket_level_5_part_6": false ,
+            
+            "do_rocket_part_capsule": false 
+        } ,
+        "rocket-level-1-part-4": {
+            "do_rocket_part_lander": false ,
+            "do_rocket_part_body": false ,
+
+            "do_rocket_level_1_part_1": false ,
+            "do_rocket_level_1_part_2": false ,
+            "do_rocket_level_1_part_3": false ,
+            "do_rocket_level_1_part_4": true ,
+            "do_rocket_level_1_part_5": false ,
+            "do_rocket_level_1_part_6": false ,
+            
+            "do_rocket_level_2_part_1": false ,
+            "do_rocket_level_2_part_2": false ,
+            "do_rocket_level_2_part_3": false ,
+            "do_rocket_level_2_part_4": false ,
+            "do_rocket_level_2_part_5": false ,
+            "do_rocket_level_2_part_6": false ,
+
+            "do_rocket_level_3_part_1": false ,
+            "do_rocket_level_3_part_2": false ,
+            "do_rocket_level_3_part_3": false ,
+            "do_rocket_level_3_part_4": false ,
+            "do_rocket_level_3_part_5": false ,
+            "do_rocket_level_3_part_6": false ,
+
+            "do_rocket_level_4_part_1": false ,
+            "do_rocket_level_4_part_2": false ,
+            "do_rocket_level_4_part_3": false ,
+            "do_rocket_level_4_part_4": false ,
+            "do_rocket_level_4_part_5": false ,
+            "do_rocket_level_4_part_6": false ,
+            
+            "do_rocket_level_5_part_1": false ,
+            "do_rocket_level_5_part_2": false ,
+            "do_rocket_level_5_part_3": false ,
+            "do_rocket_level_5_part_4": false ,
+            "do_rocket_level_5_part_5": false ,
+            "do_rocket_level_5_part_6": false ,
+            
+            "do_rocket_part_capsule": false 
+        } ,
+        "rocket-level-1-part-5": {
+            "do_rocket_part_lander": false ,
+            "do_rocket_part_body": false ,
+
+            "do_rocket_level_1_part_1": false ,
+            "do_rocket_level_1_part_2": false ,
+            "do_rocket_level_1_part_3": false ,
+            "do_rocket_level_1_part_4": false ,
+            "do_rocket_level_1_part_5": true ,
+            "do_rocket_level_1_part_6": false ,
+            
+            "do_rocket_level_2_part_1": false ,
+            "do_rocket_level_2_part_2": false ,
+            "do_rocket_level_2_part_3": false ,
+            "do_rocket_level_2_part_4": false ,
+            "do_rocket_level_2_part_5": false ,
+            "do_rocket_level_2_part_6": false ,
+
+            "do_rocket_level_3_part_1": false ,
+            "do_rocket_level_3_part_2": false ,
+            "do_rocket_level_3_part_3": false ,
+            "do_rocket_level_3_part_4": false ,
+            "do_rocket_level_3_part_5": false ,
+            "do_rocket_level_3_part_6": false ,
+
+            "do_rocket_level_4_part_1": false ,
+            "do_rocket_level_4_part_2": false ,
+            "do_rocket_level_4_part_3": false ,
+            "do_rocket_level_4_part_4": false ,
+            "do_rocket_level_4_part_5": false ,
+            "do_rocket_level_4_part_6": false ,
+            
+            "do_rocket_level_5_part_1": false ,
+            "do_rocket_level_5_part_2": false ,
+            "do_rocket_level_5_part_3": false ,
+            "do_rocket_level_5_part_4": false ,
+            "do_rocket_level_5_part_5": false ,
+            "do_rocket_level_5_part_6": false ,
+            
+            "do_rocket_part_capsule": false 
+        } ,
+        "rocket-level-1-part-6": {
+            "do_rocket_part_lander": false ,
+            "do_rocket_part_body": false ,
+
+            "do_rocket_level_1_part_1": false ,
+            "do_rocket_level_1_part_2": false ,
+            "do_rocket_level_1_part_3": false ,
+            "do_rocket_level_1_part_4": false ,
+            "do_rocket_level_1_part_5": false ,
+            "do_rocket_level_1_part_6": true ,
+            
+            "do_rocket_level_2_part_1": false ,
+            "do_rocket_level_2_part_2": false ,
+            "do_rocket_level_2_part_3": false ,
+            "do_rocket_level_2_part_4": false ,
+            "do_rocket_level_2_part_5": false ,
+            "do_rocket_level_2_part_6": false ,
+
+            "do_rocket_level_3_part_1": false ,
+            "do_rocket_level_3_part_2": false ,
+            "do_rocket_level_3_part_3": false ,
+            "do_rocket_level_3_part_4": false ,
+            "do_rocket_level_3_part_5": false ,
+            "do_rocket_level_3_part_6": false ,
+
+            "do_rocket_level_4_part_1": false ,
+            "do_rocket_level_4_part_2": false ,
+            "do_rocket_level_4_part_3": false ,
+            "do_rocket_level_4_part_4": false ,
+            "do_rocket_level_4_part_5": false ,
+            "do_rocket_level_4_part_6": false ,
+            
+            "do_rocket_level_5_part_1": false ,
+            "do_rocket_level_5_part_2": false ,
+            "do_rocket_level_5_part_3": false ,
+            "do_rocket_level_5_part_4": false ,
+            "do_rocket_level_5_part_5": false ,
+            "do_rocket_level_5_part_6": false ,
+            
+            "do_rocket_part_capsule": false 
+        } ,
+
+        "rocket-level-2-part-1": {
+            "do_rocket_part_lander": false ,
+            "do_rocket_part_body": false ,
+
+            "do_rocket_level_1_part_1": false ,
+            "do_rocket_level_1_part_2": false ,
+            "do_rocket_level_1_part_3": false ,
+            "do_rocket_level_1_part_4": false ,
+            "do_rocket_level_1_part_5": false ,
+            "do_rocket_level_1_part_6": false ,
+            
+            "do_rocket_level_2_part_1": true ,
+            "do_rocket_level_2_part_2": false ,
+            "do_rocket_level_2_part_3": false ,
+            "do_rocket_level_2_part_4": false ,
+            "do_rocket_level_2_part_5": false ,
+            "do_rocket_level_2_part_6": false ,
+
+            "do_rocket_level_3_part_1": false ,
+            "do_rocket_level_3_part_2": false ,
+            "do_rocket_level_3_part_3": false ,
+            "do_rocket_level_3_part_4": false ,
+            "do_rocket_level_3_part_5": false ,
+            "do_rocket_level_3_part_6": false ,
+
+            "do_rocket_level_4_part_1": false ,
+            "do_rocket_level_4_part_2": false ,
+            "do_rocket_level_4_part_3": false ,
+            "do_rocket_level_4_part_4": false ,
+            "do_rocket_level_4_part_5": false ,
+            "do_rocket_level_4_part_6": false ,
+            
+            "do_rocket_level_5_part_1": false ,
+            "do_rocket_level_5_part_2": false ,
+            "do_rocket_level_5_part_3": false ,
+            "do_rocket_level_5_part_4": false ,
+            "do_rocket_level_5_part_5": false ,
+            "do_rocket_level_5_part_6": false ,
+            
+            "do_rocket_part_capsule": false 
+        } ,
+        "rocket-level-2-part-2": {
+            "do_rocket_part_lander": false ,
+            "do_rocket_part_body": false ,
+
+            "do_rocket_level_1_part_1": false ,
+            "do_rocket_level_1_part_2": false ,
+            "do_rocket_level_1_part_3": false ,
+            "do_rocket_level_1_part_4": false ,
+            "do_rocket_level_1_part_5": false ,
+            "do_rocket_level_1_part_6": false ,
+            
+            "do_rocket_level_2_part_1": false ,
+            "do_rocket_level_2_part_2": true ,
+            "do_rocket_level_2_part_3": false ,
+            "do_rocket_level_2_part_4": false ,
+            "do_rocket_level_2_part_5": false ,
+            "do_rocket_level_2_part_6": false ,
+
+            "do_rocket_level_3_part_1": false ,
+            "do_rocket_level_3_part_2": false ,
+            "do_rocket_level_3_part_3": false ,
+            "do_rocket_level_3_part_4": false ,
+            "do_rocket_level_3_part_5": false ,
+            "do_rocket_level_3_part_6": false ,
+
+            "do_rocket_level_4_part_1": false ,
+            "do_rocket_level_4_part_2": false ,
+            "do_rocket_level_4_part_3": false ,
+            "do_rocket_level_4_part_4": false ,
+            "do_rocket_level_4_part_5": false ,
+            "do_rocket_level_4_part_6": false ,
+            
+            "do_rocket_level_5_part_1": false ,
+            "do_rocket_level_5_part_2": false ,
+            "do_rocket_level_5_part_3": false ,
+            "do_rocket_level_5_part_4": false ,
+            "do_rocket_level_5_part_5": false ,
+            "do_rocket_level_5_part_6": false ,
+            
+            "do_rocket_part_capsule": false 
+        } ,
+        "rocket-level-2-part-3": {
+            "do_rocket_part_lander": false ,
+            "do_rocket_part_body": false ,
+
+            "do_rocket_level_1_part_1": false ,
+            "do_rocket_level_1_part_2": false ,
+            "do_rocket_level_1_part_3": false ,
+            "do_rocket_level_1_part_4": false ,
+            "do_rocket_level_1_part_5": false ,
+            "do_rocket_level_1_part_6": false ,
+            
+            "do_rocket_level_2_part_1": false ,
+            "do_rocket_level_2_part_2": false ,
+            "do_rocket_level_2_part_3": true ,
+            "do_rocket_level_2_part_4": false ,
+            "do_rocket_level_2_part_5": false ,
+            "do_rocket_level_2_part_6": false ,
+
+            "do_rocket_level_3_part_1": false ,
+            "do_rocket_level_3_part_2": false ,
+            "do_rocket_level_3_part_3": false ,
+            "do_rocket_level_3_part_4": false ,
+            "do_rocket_level_3_part_5": false ,
+            "do_rocket_level_3_part_6": false ,
+
+            "do_rocket_level_4_part_1": false ,
+            "do_rocket_level_4_part_2": false ,
+            "do_rocket_level_4_part_3": false ,
+            "do_rocket_level_4_part_4": false ,
+            "do_rocket_level_4_part_5": false ,
+            "do_rocket_level_4_part_6": false ,
+            
+            "do_rocket_level_5_part_1": false ,
+            "do_rocket_level_5_part_2": false ,
+            "do_rocket_level_5_part_3": false ,
+            "do_rocket_level_5_part_4": false ,
+            "do_rocket_level_5_part_5": false ,
+            "do_rocket_level_5_part_6": false ,
+            
+            "do_rocket_part_capsule": false 
+        } ,
+        "rocket-level-2-part-4": {
+            "do_rocket_part_lander": false ,
+            "do_rocket_part_body": false ,
+
+            "do_rocket_level_1_part_1": false ,
+            "do_rocket_level_1_part_2": false ,
+            "do_rocket_level_1_part_3": false ,
+            "do_rocket_level_1_part_4": false ,
+            "do_rocket_level_1_part_5": false ,
+            "do_rocket_level_1_part_6": false ,
+            
+            "do_rocket_level_2_part_1": false ,
+            "do_rocket_level_2_part_2": false ,
+            "do_rocket_level_2_part_3": false ,
+            "do_rocket_level_2_part_4": true ,
+            "do_rocket_level_2_part_5": false ,
+            "do_rocket_level_2_part_6": false ,
+
+            "do_rocket_level_3_part_1": false ,
+            "do_rocket_level_3_part_2": false ,
+            "do_rocket_level_3_part_3": false ,
+            "do_rocket_level_3_part_4": false ,
+            "do_rocket_level_3_part_5": false ,
+            "do_rocket_level_3_part_6": false ,
+
+            "do_rocket_level_4_part_1": false ,
+            "do_rocket_level_4_part_2": false ,
+            "do_rocket_level_4_part_3": false ,
+            "do_rocket_level_4_part_4": false ,
+            "do_rocket_level_4_part_5": false ,
+            "do_rocket_level_4_part_6": false ,
+            
+            "do_rocket_level_5_part_1": false ,
+            "do_rocket_level_5_part_2": false ,
+            "do_rocket_level_5_part_3": false ,
+            "do_rocket_level_5_part_4": false ,
+            "do_rocket_level_5_part_5": false ,
+            "do_rocket_level_5_part_6": false ,
+            
+            "do_rocket_part_capsule": false 
+        } ,
+        "rocket-level-2-part-5": {
+            "do_rocket_part_lander": false ,
+            "do_rocket_part_body": false ,
+
+            "do_rocket_level_1_part_1": false ,
+            "do_rocket_level_1_part_2": false ,
+            "do_rocket_level_1_part_3": false ,
+            "do_rocket_level_1_part_4": false ,
+            "do_rocket_level_1_part_5": false ,
+            "do_rocket_level_1_part_6": false ,
+            
+            "do_rocket_level_2_part_1": false ,
+            "do_rocket_level_2_part_2": false ,
+            "do_rocket_level_2_part_3": false ,
+            "do_rocket_level_2_part_4": false ,
+            "do_rocket_level_2_part_5": true ,
+            "do_rocket_level_2_part_6": false ,
+
+            "do_rocket_level_3_part_1": false ,
+            "do_rocket_level_3_part_2": false ,
+            "do_rocket_level_3_part_3": false ,
+            "do_rocket_level_3_part_4": false ,
+            "do_rocket_level_3_part_5": false ,
+            "do_rocket_level_3_part_6": false ,
+
+            "do_rocket_level_4_part_1": false ,
+            "do_rocket_level_4_part_2": false ,
+            "do_rocket_level_4_part_3": false ,
+            "do_rocket_level_4_part_4": false ,
+            "do_rocket_level_4_part_5": false ,
+            "do_rocket_level_4_part_6": false ,
+            
+            "do_rocket_level_5_part_1": false ,
+            "do_rocket_level_5_part_2": false ,
+            "do_rocket_level_5_part_3": false ,
+            "do_rocket_level_5_part_4": false ,
+            "do_rocket_level_5_part_5": false ,
+            "do_rocket_level_5_part_6": false ,
+            
+            "do_rocket_part_capsule": false 
+        } ,
+        "rocket-level-2-part-6": {
+            "do_rocket_part_lander": false ,
+            "do_rocket_part_body": false ,
+
+            "do_rocket_level_1_part_1": false ,
+            "do_rocket_level_1_part_2": false ,
+            "do_rocket_level_1_part_3": false ,
+            "do_rocket_level_1_part_4": false ,
+            "do_rocket_level_1_part_5": false ,
+            "do_rocket_level_1_part_6": false ,
+            
+            "do_rocket_level_2_part_1": false ,
+            "do_rocket_level_2_part_2": false ,
+            "do_rocket_level_2_part_3": false ,
+            "do_rocket_level_2_part_4": false ,
+            "do_rocket_level_2_part_5": false ,
+            "do_rocket_level_2_part_6": true ,
+
+            "do_rocket_level_3_part_1": false ,
+            "do_rocket_level_3_part_2": false ,
+            "do_rocket_level_3_part_3": false ,
+            "do_rocket_level_3_part_4": false ,
+            "do_rocket_level_3_part_5": false ,
+            "do_rocket_level_3_part_6": false ,
+
+            "do_rocket_level_4_part_1": false ,
+            "do_rocket_level_4_part_2": false ,
+            "do_rocket_level_4_part_3": false ,
+            "do_rocket_level_4_part_4": false ,
+            "do_rocket_level_4_part_5": false ,
+            "do_rocket_level_4_part_6": false ,
+            
+            "do_rocket_level_5_part_1": false ,
+            "do_rocket_level_5_part_2": false ,
+            "do_rocket_level_5_part_3": false ,
+            "do_rocket_level_5_part_4": false ,
+            "do_rocket_level_5_part_5": false ,
+            "do_rocket_level_5_part_6": false ,
+            
+            "do_rocket_part_capsule": false 
+        } ,
+
+        "rocket-level-3-part-1": {
+            "do_rocket_part_lander": false ,
+            "do_rocket_part_body": false ,
+
+            "do_rocket_level_1_part_1": false ,
+            "do_rocket_level_1_part_2": false ,
+            "do_rocket_level_1_part_3": false ,
+            "do_rocket_level_1_part_4": false ,
+            "do_rocket_level_1_part_5": false ,
+            "do_rocket_level_1_part_6": false ,
+            
+            "do_rocket_level_2_part_1": false ,
+            "do_rocket_level_2_part_2": false ,
+            "do_rocket_level_2_part_3": false ,
+            "do_rocket_level_2_part_4": false ,
+            "do_rocket_level_2_part_5": false ,
+            "do_rocket_level_2_part_6": false ,
+
+            "do_rocket_level_3_part_1": true ,
+            "do_rocket_level_3_part_2": false ,
+            "do_rocket_level_3_part_3": false ,
+            "do_rocket_level_3_part_4": false ,
+            "do_rocket_level_3_part_5": false ,
+            "do_rocket_level_3_part_6": false ,
+
+            "do_rocket_level_4_part_1": false ,
+            "do_rocket_level_4_part_2": false ,
+            "do_rocket_level_4_part_3": false ,
+            "do_rocket_level_4_part_4": false ,
+            "do_rocket_level_4_part_5": false ,
+            "do_rocket_level_4_part_6": false ,
+            
+            "do_rocket_level_5_part_1": false ,
+            "do_rocket_level_5_part_2": false ,
+            "do_rocket_level_5_part_3": false ,
+            "do_rocket_level_5_part_4": false ,
+            "do_rocket_level_5_part_5": false ,
+            "do_rocket_level_5_part_6": false ,
+            
+            "do_rocket_part_capsule": false 
+        } ,
+        "rocket-level-3-part-2": {
+            "do_rocket_part_lander": false ,
+            "do_rocket_part_body": false ,
+
+            "do_rocket_level_1_part_1": false ,
+            "do_rocket_level_1_part_2": false ,
+            "do_rocket_level_1_part_3": false ,
+            "do_rocket_level_1_part_4": false ,
+            "do_rocket_level_1_part_5": false ,
+            "do_rocket_level_1_part_6": false ,
+            
+            "do_rocket_level_2_part_1": false ,
+            "do_rocket_level_2_part_2": false ,
+            "do_rocket_level_2_part_3": false ,
+            "do_rocket_level_2_part_4": false ,
+            "do_rocket_level_2_part_5": false ,
+            "do_rocket_level_2_part_6": false ,
+
+            "do_rocket_level_3_part_1": false ,
+            "do_rocket_level_3_part_2": true ,
+            "do_rocket_level_3_part_3": false ,
+            "do_rocket_level_3_part_4": false ,
+            "do_rocket_level_3_part_5": false ,
+            "do_rocket_level_3_part_6": false ,
+
+            "do_rocket_level_4_part_1": false ,
+            "do_rocket_level_4_part_2": false ,
+            "do_rocket_level_4_part_3": false ,
+            "do_rocket_level_4_part_4": false ,
+            "do_rocket_level_4_part_5": false ,
+            "do_rocket_level_4_part_6": false ,
+            
+            "do_rocket_level_5_part_1": false ,
+            "do_rocket_level_5_part_2": false ,
+            "do_rocket_level_5_part_3": false ,
+            "do_rocket_level_5_part_4": false ,
+            "do_rocket_level_5_part_5": false ,
+            "do_rocket_level_5_part_6": false ,
+
+            "do_rocket_part_capsule": false 
+        } ,
+        "rocket-level-3-part-3": {
+            "do_rocket_part_lander": false ,
+            "do_rocket_part_body": false ,
+
+            "do_rocket_level_1_part_1": false ,
+            "do_rocket_level_1_part_2": false ,
+            "do_rocket_level_1_part_3": false ,
+            "do_rocket_level_1_part_4": false ,
+            "do_rocket_level_1_part_5": false ,
+            "do_rocket_level_1_part_6": false ,
+            
+            "do_rocket_level_2_part_1": false ,
+            "do_rocket_level_2_part_2": false ,
+            "do_rocket_level_2_part_3": false ,
+            "do_rocket_level_2_part_4": false ,
+            "do_rocket_level_2_part_5": false ,
+            "do_rocket_level_2_part_6": false ,
+
+            "do_rocket_level_3_part_1": false ,
+            "do_rocket_level_3_part_2": false ,
+            "do_rocket_level_3_part_3": true ,
+            "do_rocket_level_3_part_4": false ,
+            "do_rocket_level_3_part_5": false ,
+            "do_rocket_level_3_part_6": false ,
+
+            "do_rocket_level_4_part_1": false ,
+            "do_rocket_level_4_part_2": false ,
+            "do_rocket_level_4_part_3": false ,
+            "do_rocket_level_4_part_4": false ,
+            "do_rocket_level_4_part_5": false ,
+            "do_rocket_level_4_part_6": false ,
+            
+            "do_rocket_level_5_part_1": false ,
+            "do_rocket_level_5_part_2": false ,
+            "do_rocket_level_5_part_3": false ,
+            "do_rocket_level_5_part_4": false ,
+            "do_rocket_level_5_part_5": false ,
+            "do_rocket_level_5_part_6": false ,
+            
+            "do_rocket_part_capsule": false 
+        } ,
+        "rocket-level-3-part-4": {
+            "do_rocket_part_lander": false ,
+            "do_rocket_part_body": false ,
+
+            "do_rocket_level_1_part_1": false ,
+            "do_rocket_level_1_part_2": false ,
+            "do_rocket_level_1_part_3": false ,
+            "do_rocket_level_1_part_4": false ,
+            "do_rocket_level_1_part_5": false ,
+            "do_rocket_level_1_part_6": false ,
+            
+            "do_rocket_level_2_part_1": false ,
+            "do_rocket_level_2_part_2": false ,
+            "do_rocket_level_2_part_3": false ,
+            "do_rocket_level_2_part_4": false ,
+            "do_rocket_level_2_part_5": false ,
+            "do_rocket_level_2_part_6": false ,
+
+            "do_rocket_level_3_part_1": false ,
+            "do_rocket_level_3_part_2": false ,
+            "do_rocket_level_3_part_3": false ,
+            "do_rocket_level_3_part_4": true ,
+            "do_rocket_level_3_part_5": false ,
+            "do_rocket_level_3_part_6": false ,
+
+            "do_rocket_level_4_part_1": false ,
+            "do_rocket_level_4_part_2": false ,
+            "do_rocket_level_4_part_3": false ,
+            "do_rocket_level_4_part_4": false ,
+            "do_rocket_level_4_part_5": false ,
+            "do_rocket_level_4_part_6": false ,
+            
+            "do_rocket_level_5_part_1": false ,
+            "do_rocket_level_5_part_2": false ,
+            "do_rocket_level_5_part_3": false ,
+            "do_rocket_level_5_part_4": false ,
+            "do_rocket_level_5_part_5": false ,
+            "do_rocket_level_5_part_6": false ,
+            
+            "do_rocket_part_capsule": false 
+        } ,
+        "rocket-level-3-part-5": {
+            "do_rocket_part_lander": false ,
+            "do_rocket_part_body": false ,
+
+            "do_rocket_level_1_part_1": false ,
+            "do_rocket_level_1_part_2": false ,
+            "do_rocket_level_1_part_3": false ,
+            "do_rocket_level_1_part_4": false ,
+            "do_rocket_level_1_part_5": false ,
+            "do_rocket_level_1_part_6": false ,
+            
+            "do_rocket_level_2_part_1": false ,
+            "do_rocket_level_2_part_2": false ,
+            "do_rocket_level_2_part_3": false ,
+            "do_rocket_level_2_part_4": false ,
+            "do_rocket_level_2_part_5": false ,
+            "do_rocket_level_2_part_6": false ,
+
+            "do_rocket_level_3_part_1": false ,
+            "do_rocket_level_3_part_2": false ,
+            "do_rocket_level_3_part_3": false ,
+            "do_rocket_level_3_part_4": false ,
+            "do_rocket_level_3_part_5": true ,
+            "do_rocket_level_3_part_6": false ,
+
+            "do_rocket_level_4_part_1": false ,
+            "do_rocket_level_4_part_2": false ,
+            "do_rocket_level_4_part_3": false ,
+            "do_rocket_level_4_part_4": false ,
+            "do_rocket_level_4_part_5": false ,
+            "do_rocket_level_4_part_6": false ,
+            
+            "do_rocket_level_5_part_1": false ,
+            "do_rocket_level_5_part_2": false ,
+            "do_rocket_level_5_part_3": false ,
+            "do_rocket_level_5_part_4": false ,
+            "do_rocket_level_5_part_5": false ,
+            "do_rocket_level_5_part_6": false ,
+            
+            "do_rocket_part_capsule": false 
+        } ,
+        "rocket-level-3-part-6": {
+            "do_rocket_part_lander": false ,
+            "do_rocket_part_body": false ,
+
+            "do_rocket_level_1_part_1": false ,
+            "do_rocket_level_1_part_2": false ,
+            "do_rocket_level_1_part_3": false ,
+            "do_rocket_level_1_part_4": false ,
+            "do_rocket_level_1_part_5": false ,
+            "do_rocket_level_1_part_6": false ,
+            
+            "do_rocket_level_2_part_1": false ,
+            "do_rocket_level_2_part_2": false ,
+            "do_rocket_level_2_part_3": false ,
+            "do_rocket_level_2_part_4": false ,
+            "do_rocket_level_2_part_5": false ,
+            "do_rocket_level_2_part_6": false ,
+
+            "do_rocket_level_3_part_1": false ,
+            "do_rocket_level_3_part_2": false ,
+            "do_rocket_level_3_part_3": false ,
+            "do_rocket_level_3_part_4": false ,
+            "do_rocket_level_3_part_5": false ,
+            "do_rocket_level_3_part_6": true ,
+
+            "do_rocket_level_4_part_1": false ,
+            "do_rocket_level_4_part_2": false ,
+            "do_rocket_level_4_part_3": false ,
+            "do_rocket_level_4_part_4": false ,
+            "do_rocket_level_4_part_5": false ,
+            "do_rocket_level_4_part_6": false ,
+            
+            "do_rocket_level_5_part_1": false ,
+            "do_rocket_level_5_part_2": false ,
+            "do_rocket_level_5_part_3": false ,
+            "do_rocket_level_5_part_4": false ,
+            "do_rocket_level_5_part_5": false ,
+            "do_rocket_level_5_part_6": false ,
+
+            "do_rocket_part_capsule": false 
+        } ,
+
+        "rocket-level-4-part-1": {
+            "do_rocket_part_lander": false ,
+            "do_rocket_part_body": false ,
+
+            "do_rocket_level_1_part_1": false ,
+            "do_rocket_level_1_part_2": false ,
+            "do_rocket_level_1_part_3": false ,
+            "do_rocket_level_1_part_4": false ,
+            "do_rocket_level_1_part_5": false ,
+            "do_rocket_level_1_part_6": false ,
+            
+            "do_rocket_level_2_part_1": false ,
+            "do_rocket_level_2_part_2": false ,
+            "do_rocket_level_2_part_3": false ,
+            "do_rocket_level_2_part_4": false ,
+            "do_rocket_level_2_part_5": false ,
+            "do_rocket_level_2_part_6": false ,
+
+            "do_rocket_level_3_part_1": false ,
+            "do_rocket_level_3_part_2": false ,
+            "do_rocket_level_3_part_3": false ,
+            "do_rocket_level_3_part_4": false ,
+            "do_rocket_level_3_part_5": false ,
+            "do_rocket_level_3_part_6": false ,
+
+            "do_rocket_level_4_part_1": true ,
+            "do_rocket_level_4_part_2": false ,
+            "do_rocket_level_4_part_3": false ,
+            "do_rocket_level_4_part_4": false ,
+            "do_rocket_level_4_part_5": false ,
+            "do_rocket_level_4_part_6": false ,
+            
+            "do_rocket_level_5_part_1": false ,
+            "do_rocket_level_5_part_2": false ,
+            "do_rocket_level_5_part_3": false ,
+            "do_rocket_level_5_part_4": false ,
+            "do_rocket_level_5_part_5": false ,
+            "do_rocket_level_5_part_6": false ,
+            
+            "do_rocket_part_capsule": false 
+        } ,
+        "rocket-level-4-part-2": {
+            "do_rocket_part_lander": false ,
+            "do_rocket_part_body": false ,
+
+            "do_rocket_level_1_part_1": false ,
+            "do_rocket_level_1_part_2": false ,
+            "do_rocket_level_1_part_3": false ,
+            "do_rocket_level_1_part_4": false ,
+            "do_rocket_level_1_part_5": false ,
+            "do_rocket_level_1_part_6": false ,
+            
+            "do_rocket_level_2_part_1": false ,
+            "do_rocket_level_2_part_2": false ,
+            "do_rocket_level_2_part_3": false ,
+            "do_rocket_level_2_part_4": false ,
+            "do_rocket_level_2_part_5": false ,
+            "do_rocket_level_2_part_6": false ,
+
+            "do_rocket_level_3_part_1": false ,
+            "do_rocket_level_3_part_2": false ,
+            "do_rocket_level_3_part_3": false ,
+            "do_rocket_level_3_part_4": false ,
+            "do_rocket_level_3_part_5": false ,
+            "do_rocket_level_3_part_6": false ,
+
+            "do_rocket_level_4_part_1": false ,
+            "do_rocket_level_4_part_2": true ,
+            "do_rocket_level_4_part_3": false ,
+            "do_rocket_level_4_part_4": false ,
+            "do_rocket_level_4_part_5": false ,
+            "do_rocket_level_4_part_6": false ,
+            
+            "do_rocket_level_5_part_1": false ,
+            "do_rocket_level_5_part_2": false ,
+            "do_rocket_level_5_part_3": false ,
+            "do_rocket_level_5_part_4": false ,
+            "do_rocket_level_5_part_5": false ,
+            "do_rocket_level_5_part_6": false ,
+            
+            "do_rocket_part_capsule": false 
+        } ,
+        "rocket-level-4-part-3": {
+            "do_rocket_part_lander": false ,
+            "do_rocket_part_body": false ,
+
+            "do_rocket_level_1_part_1": false ,
+            "do_rocket_level_1_part_2": false ,
+            "do_rocket_level_1_part_3": false ,
+            "do_rocket_level_1_part_4": false ,
+            "do_rocket_level_1_part_5": false ,
+            "do_rocket_level_1_part_6": false ,
+            
+            "do_rocket_level_2_part_1": false ,
+            "do_rocket_level_2_part_2": false ,
+            "do_rocket_level_2_part_3": false ,
+            "do_rocket_level_2_part_4": false ,
+            "do_rocket_level_2_part_5": false ,
+            "do_rocket_level_2_part_6": false ,
+
+            "do_rocket_level_3_part_1": false ,
+            "do_rocket_level_3_part_2": false ,
+            "do_rocket_level_3_part_3": false ,
+            "do_rocket_level_3_part_4": false ,
+            "do_rocket_level_3_part_5": false ,
+            "do_rocket_level_3_part_6": false ,
+
+            "do_rocket_level_4_part_1": false ,
+            "do_rocket_level_4_part_2": false ,
+            "do_rocket_level_4_part_3": true ,
+            "do_rocket_level_4_part_4": false ,
+            "do_rocket_level_4_part_5": false ,
+            "do_rocket_level_4_part_6": false ,
+            
+            "do_rocket_level_5_part_1": false ,
+            "do_rocket_level_5_part_2": false ,
+            "do_rocket_level_5_part_3": false ,
+            "do_rocket_level_5_part_4": false ,
+            "do_rocket_level_5_part_5": false ,
+            "do_rocket_level_5_part_6": false ,
+            
+            "do_rocket_part_capsule": false 
+        } ,
+        "rocket-level-4-part-4": {
+            "do_rocket_part_lander": false ,
+            "do_rocket_part_body": false ,
+
+            "do_rocket_level_1_part_1": false ,
+            "do_rocket_level_1_part_2": false ,
+            "do_rocket_level_1_part_3": false ,
+            "do_rocket_level_1_part_4": false ,
+            "do_rocket_level_1_part_5": false ,
+            "do_rocket_level_1_part_6": false ,
+            
+            "do_rocket_level_2_part_1": false ,
+            "do_rocket_level_2_part_2": false ,
+            "do_rocket_level_2_part_3": false ,
+            "do_rocket_level_2_part_4": false ,
+            "do_rocket_level_2_part_5": false ,
+            "do_rocket_level_2_part_6": false ,
+
+            "do_rocket_level_3_part_1": false ,
+            "do_rocket_level_3_part_2": false ,
+            "do_rocket_level_3_part_3": false ,
+            "do_rocket_level_3_part_4": false ,
+            "do_rocket_level_3_part_5": false ,
+            "do_rocket_level_3_part_6": false ,
+
+            "do_rocket_level_4_part_1": false ,
+            "do_rocket_level_4_part_2": false ,
+            "do_rocket_level_4_part_3": false ,
+            "do_rocket_level_4_part_4": true ,
+            "do_rocket_level_4_part_5": false ,
+            "do_rocket_level_4_part_6": false ,
+            
+            "do_rocket_level_5_part_1": false ,
+            "do_rocket_level_5_part_2": false ,
+            "do_rocket_level_5_part_3": false ,
+            "do_rocket_level_5_part_4": false ,
+            "do_rocket_level_5_part_5": false ,
+            "do_rocket_level_5_part_6": false ,
+            
+            "do_rocket_part_capsule": false 
+        } ,
+        "rocket-level-4-part-5": {
+            "do_rocket_part_lander": false ,
+            "do_rocket_part_body": false ,
+
+            "do_rocket_level_1_part_1": false ,
+            "do_rocket_level_1_part_2": false ,
+            "do_rocket_level_1_part_3": false ,
+            "do_rocket_level_1_part_4": false ,
+            "do_rocket_level_1_part_5": false ,
+            "do_rocket_level_1_part_6": false ,
+            
+            "do_rocket_level_2_part_1": false ,
+            "do_rocket_level_2_part_2": false ,
+            "do_rocket_level_2_part_3": false ,
+            "do_rocket_level_2_part_4": false ,
+            "do_rocket_level_2_part_5": false ,
+            "do_rocket_level_2_part_6": false ,
+
+            "do_rocket_level_3_part_1": false ,
+            "do_rocket_level_3_part_2": false ,
+            "do_rocket_level_3_part_3": false ,
+            "do_rocket_level_3_part_4": false ,
+            "do_rocket_level_3_part_5": false ,
+            "do_rocket_level_3_part_6": false ,
+
+            "do_rocket_level_4_part_1": false ,
+            "do_rocket_level_4_part_2": false ,
+            "do_rocket_level_4_part_3": false ,
+            "do_rocket_level_4_part_4": false ,
+            "do_rocket_level_4_part_5": true ,
+            "do_rocket_level_4_part_6": false ,
+            
+            "do_rocket_level_5_part_1": false ,
+            "do_rocket_level_5_part_2": false ,
+            "do_rocket_level_5_part_3": false ,
+            "do_rocket_level_5_part_4": false ,
+            "do_rocket_level_5_part_5": false ,
+            "do_rocket_level_5_part_6": false ,
+
+            "do_rocket_part_capsule": false 
+        } ,
+        "rocket-level-4-part-6": {
+            "do_rocket_part_lander": false ,
+            "do_rocket_part_body": false ,
+
+            "do_rocket_level_1_part_1": false ,
+            "do_rocket_level_1_part_2": false ,
+            "do_rocket_level_1_part_3": false ,
+            "do_rocket_level_1_part_4": false ,
+            "do_rocket_level_1_part_5": false ,
+            "do_rocket_level_1_part_6": false ,
+            
+            "do_rocket_level_2_part_1": false ,
+            "do_rocket_level_2_part_2": false ,
+            "do_rocket_level_2_part_3": false ,
+            "do_rocket_level_2_part_4": false ,
+            "do_rocket_level_2_part_5": false ,
+            "do_rocket_level_2_part_6": false ,
+
+            "do_rocket_level_3_part_1": false ,
+            "do_rocket_level_3_part_2": false ,
+            "do_rocket_level_3_part_3": false ,
+            "do_rocket_level_3_part_4": false ,
+            "do_rocket_level_3_part_5": false ,
+            "do_rocket_level_3_part_6": false ,
+
+            "do_rocket_level_4_part_1": false ,
+            "do_rocket_level_4_part_2": false ,
+            "do_rocket_level_4_part_3": false ,
+            "do_rocket_level_4_part_4": false ,
+            "do_rocket_level_4_part_5": false ,
+            "do_rocket_level_4_part_6": true ,
+            
+            "do_rocket_level_5_part_1": false ,
+            "do_rocket_level_5_part_2": false ,
+            "do_rocket_level_5_part_3": false ,
+            "do_rocket_level_5_part_4": false ,
+            "do_rocket_level_5_part_5": false ,
+            "do_rocket_level_5_part_6": false ,
+            
+            "do_rocket_part_capsule": false 
+        } ,
+
+        "rocket-level-5-part-1": {
+            "do_rocket_part_lander": false ,
+            "do_rocket_part_body": false ,
+
+            "do_rocket_level_1_part_1": false ,
+            "do_rocket_level_1_part_2": false ,
+            "do_rocket_level_1_part_3": false ,
+            "do_rocket_level_1_part_4": false ,
+            "do_rocket_level_1_part_5": false ,
+            "do_rocket_level_1_part_6": false ,
+            
+            "do_rocket_level_2_part_1": false ,
+            "do_rocket_level_2_part_2": false ,
+            "do_rocket_level_2_part_3": false ,
+            "do_rocket_level_2_part_4": false ,
+            "do_rocket_level_2_part_5": false ,
+            "do_rocket_level_2_part_6": false ,
+
+            "do_rocket_level_3_part_1": false ,
+            "do_rocket_level_3_part_2": false ,
+            "do_rocket_level_3_part_3": false ,
+            "do_rocket_level_3_part_4": false ,
+            "do_rocket_level_3_part_5": false ,
+            "do_rocket_level_3_part_6": false ,
+
+            "do_rocket_level_4_part_1": false ,
+            "do_rocket_level_4_part_2": false ,
+            "do_rocket_level_4_part_3": false ,
+            "do_rocket_level_4_part_4": false ,
+            "do_rocket_level_4_part_5": false ,
+            "do_rocket_level_4_part_6": false ,
+            
+            "do_rocket_level_5_part_1": true ,
+            "do_rocket_level_5_part_2": false ,
+            "do_rocket_level_5_part_3": false ,
+            "do_rocket_level_5_part_4": false ,
+            "do_rocket_level_5_part_5": false ,
+            "do_rocket_level_5_part_6": false ,
+            
+            "do_rocket_part_capsule": false 
+        } ,
+        "rocket-level-5-part-2": {
+            "do_rocket_part_lander": false ,
+            "do_rocket_part_body": false ,
+
+            "do_rocket_level_1_part_1": false ,
+            "do_rocket_level_1_part_2": false ,
+            "do_rocket_level_1_part_3": false ,
+            "do_rocket_level_1_part_4": false ,
+            "do_rocket_level_1_part_5": false ,
+            "do_rocket_level_1_part_6": false ,
+            
+            "do_rocket_level_2_part_1": false ,
+            "do_rocket_level_2_part_2": false ,
+            "do_rocket_level_2_part_3": false ,
+            "do_rocket_level_2_part_4": false ,
+            "do_rocket_level_2_part_5": false ,
+            "do_rocket_level_2_part_6": false ,
+
+            "do_rocket_level_3_part_1": false ,
+            "do_rocket_level_3_part_2": false ,
+            "do_rocket_level_3_part_3": false ,
+            "do_rocket_level_3_part_4": false ,
+            "do_rocket_level_3_part_5": false ,
+            "do_rocket_level_3_part_6": false ,
+
+            "do_rocket_level_4_part_1": false ,
+            "do_rocket_level_4_part_2": false ,
+            "do_rocket_level_4_part_3": false ,
+            "do_rocket_level_4_part_4": false ,
+            "do_rocket_level_4_part_5": false ,
+            "do_rocket_level_4_part_6": false ,
+            
+            "do_rocket_level_5_part_1": false ,
+            "do_rocket_level_5_part_2": true ,
+            "do_rocket_level_5_part_3": false ,
+            "do_rocket_level_5_part_4": false ,
+            "do_rocket_level_5_part_5": false ,
+            "do_rocket_level_5_part_6": false ,
+            
+            "do_rocket_part_capsule": false 
+        } ,
+        "rocket-level-5-part-3": {
+            "do_rocket_part_lander": false ,
+            "do_rocket_part_body": false ,
+
+            "do_rocket_level_1_part_1": false ,
+            "do_rocket_level_1_part_2": false ,
+            "do_rocket_level_1_part_3": false ,
+            "do_rocket_level_1_part_4": false ,
+            "do_rocket_level_1_part_5": false ,
+            "do_rocket_level_1_part_6": false ,
+            
+            "do_rocket_level_2_part_1": false ,
+            "do_rocket_level_2_part_2": false ,
+            "do_rocket_level_2_part_3": false ,
+            "do_rocket_level_2_part_4": false ,
+            "do_rocket_level_2_part_5": false ,
+            "do_rocket_level_2_part_6": false ,
+
+            "do_rocket_level_3_part_1": false ,
+            "do_rocket_level_3_part_2": false ,
+            "do_rocket_level_3_part_3": false ,
+            "do_rocket_level_3_part_4": false ,
+            "do_rocket_level_3_part_5": false ,
+            "do_rocket_level_3_part_6": false ,
+
+            "do_rocket_level_4_part_1": false ,
+            "do_rocket_level_4_part_2": false ,
+            "do_rocket_level_4_part_3": false ,
+            "do_rocket_level_4_part_4": false ,
+            "do_rocket_level_4_part_5": false ,
+            "do_rocket_level_4_part_6": false ,
+            
+            "do_rocket_level_5_part_1": false ,
+            "do_rocket_level_5_part_2": false ,
+            "do_rocket_level_5_part_3": true ,
+            "do_rocket_level_5_part_4": false ,
+            "do_rocket_level_5_part_5": false ,
+            "do_rocket_level_5_part_6": false ,
+            
+            "do_rocket_part_capsule": false 
+        } ,
+        "rocket-level-5-part-4": {
+            "do_rocket_part_lander": false ,
+            "do_rocket_part_body": false ,
+
+            "do_rocket_level_1_part_1": false ,
+            "do_rocket_level_1_part_2": false ,
+            "do_rocket_level_1_part_3": false ,
+            "do_rocket_level_1_part_4": false ,
+            "do_rocket_level_1_part_5": false ,
+            "do_rocket_level_1_part_6": false ,
+            
+            "do_rocket_level_2_part_1": false ,
+            "do_rocket_level_2_part_2": false ,
+            "do_rocket_level_2_part_3": false ,
+            "do_rocket_level_2_part_4": false ,
+            "do_rocket_level_2_part_5": false ,
+            "do_rocket_level_2_part_6": false ,
+
+            "do_rocket_level_3_part_1": false ,
+            "do_rocket_level_3_part_2": false ,
+            "do_rocket_level_3_part_3": false ,
+            "do_rocket_level_3_part_4": false ,
+            "do_rocket_level_3_part_5": false ,
+            "do_rocket_level_3_part_6": false ,
+
+            "do_rocket_level_4_part_1": false ,
+            "do_rocket_level_4_part_2": false ,
+            "do_rocket_level_4_part_3": false ,
+            "do_rocket_level_4_part_4": false ,
+            "do_rocket_level_4_part_5": false ,
+            "do_rocket_level_4_part_6": false ,
+            
+            "do_rocket_level_5_part_1": false ,
+            "do_rocket_level_5_part_2": false ,
+            "do_rocket_level_5_part_3": false ,
+            "do_rocket_level_5_part_4": true ,
+            "do_rocket_level_5_part_5": false ,
+            "do_rocket_level_5_part_6": false ,
+
+            "do_rocket_part_capsule": false 
+        } ,
+        "rocket-level-5-part-5": {
+            "do_rocket_part_lander": false ,
+            "do_rocket_part_body": false ,
+
+            "do_rocket_level_1_part_1": false ,
+            "do_rocket_level_1_part_2": false ,
+            "do_rocket_level_1_part_3": false ,
+            "do_rocket_level_1_part_4": false ,
+            "do_rocket_level_1_part_5": false ,
+            "do_rocket_level_1_part_6": false ,
+            
+            "do_rocket_level_2_part_1": false ,
+            "do_rocket_level_2_part_2": false ,
+            "do_rocket_level_2_part_3": false ,
+            "do_rocket_level_2_part_4": false ,
+            "do_rocket_level_2_part_5": false ,
+            "do_rocket_level_2_part_6": false ,
+
+            "do_rocket_level_3_part_1": false ,
+            "do_rocket_level_3_part_2": false ,
+            "do_rocket_level_3_part_3": false ,
+            "do_rocket_level_3_part_4": false ,
+            "do_rocket_level_3_part_5": false ,
+            "do_rocket_level_3_part_6": false ,
+
+            "do_rocket_level_4_part_1": false ,
+            "do_rocket_level_4_part_2": false ,
+            "do_rocket_level_4_part_3": false ,
+            "do_rocket_level_4_part_4": false ,
+            "do_rocket_level_4_part_5": false ,
+            "do_rocket_level_4_part_6": false ,
+            
+            "do_rocket_level_5_part_1": false ,
+            "do_rocket_level_5_part_2": false ,
+            "do_rocket_level_5_part_3": false ,
+            "do_rocket_level_5_part_4": false ,
+            "do_rocket_level_5_part_5": true ,
+            "do_rocket_level_5_part_6": false ,
+            
+            "do_rocket_part_capsule": false 
+        } ,
+        "rocket-level-5-part-6": {
+            "do_rocket_part_lander": false ,
+            "do_rocket_part_body": false ,
+
+            "do_rocket_level_1_part_1": false ,
+            "do_rocket_level_1_part_2": false ,
+            "do_rocket_level_1_part_3": false ,
+            "do_rocket_level_1_part_4": false ,
+            "do_rocket_level_1_part_5": false ,
+            "do_rocket_level_1_part_6": false ,
+            
+            "do_rocket_level_2_part_1": false ,
+            "do_rocket_level_2_part_2": false ,
+            "do_rocket_level_2_part_3": false ,
+            "do_rocket_level_2_part_4": false ,
+            "do_rocket_level_2_part_5": false ,
+            "do_rocket_level_2_part_6": false ,
+
+            "do_rocket_level_3_part_1": false ,
+            "do_rocket_level_3_part_2": false ,
+            "do_rocket_level_3_part_3": false ,
+            "do_rocket_level_3_part_4": false ,
+            "do_rocket_level_3_part_5": false ,
+            "do_rocket_level_3_part_6": false ,
+
+            "do_rocket_level_4_part_1": false ,
+            "do_rocket_level_4_part_2": false ,
+            "do_rocket_level_4_part_3": false ,
+            "do_rocket_level_4_part_4": false ,
+            "do_rocket_level_4_part_5": false ,
+            "do_rocket_level_4_part_6": false ,
+            
+            "do_rocket_level_5_part_1": false ,
+            "do_rocket_level_5_part_2": false ,
+            "do_rocket_level_5_part_3": false ,
+            "do_rocket_level_5_part_4": false ,
+            "do_rocket_level_5_part_5": false ,
+            "do_rocket_level_5_part_6": true ,
+            
+            "do_rocket_part_capsule": false 
+        } ,
+
+        "rocket-part-capsule": {
+            "do_rocket_part_lander": false ,
+            "do_rocket_part_body": false ,
+
+            "do_rocket_level_1_part_1": false ,
+            "do_rocket_level_1_part_2": false ,
+            "do_rocket_level_1_part_3": false ,
+            "do_rocket_level_1_part_4": false ,
+            "do_rocket_level_1_part_5": false ,
+            "do_rocket_level_1_part_6": false ,
+            
+            "do_rocket_level_2_part_1": false ,
+            "do_rocket_level_2_part_2": false ,
+            "do_rocket_level_2_part_3": false ,
+            "do_rocket_level_2_part_4": false ,
+            "do_rocket_level_2_part_5": false ,
+            "do_rocket_level_2_part_6": false ,
+
+            "do_rocket_level_3_part_1": false ,
+            "do_rocket_level_3_part_2": false ,
+            "do_rocket_level_3_part_3": false ,
+            "do_rocket_level_3_part_4": false ,
+            "do_rocket_level_3_part_5": false ,
+            "do_rocket_level_3_part_6": false ,
+
+            "do_rocket_level_4_part_1": false ,
+            "do_rocket_level_4_part_2": false ,
+            "do_rocket_level_4_part_3": false ,
+            "do_rocket_level_4_part_4": false ,
+            "do_rocket_level_4_part_5": false ,
+            "do_rocket_level_4_part_6": false ,
+            
+            "do_rocket_level_5_part_1": false ,
+            "do_rocket_level_5_part_2": false ,
+            "do_rocket_level_5_part_3": false ,
+            "do_rocket_level_5_part_4": false ,
+            "do_rocket_level_5_part_5": false ,
+            "do_rocket_level_5_part_6": false ,
+
+            "do_rocket_part_capsule": true 
+        }
+        
+    },
+    "fileFormatVersion": "1"
+}
