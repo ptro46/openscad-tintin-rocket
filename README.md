@@ -19,6 +19,11 @@ STL generated files by make commande (for users that doesn't have make command l
 ![first-view](captures/first-view.png)
 ![second-view](captures/second-view.png)
 
+![build-1](captures/build-1.jpg)
+![build-2](captures/build-2.jpg)
+![build-3](captures/build-3.jpg)
+![build-4](captures/build-4.jpg)
+
 # Build
 
 ```bash
